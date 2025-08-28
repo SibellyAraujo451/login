@@ -1,27 +1,18 @@
-# README
+# Login
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Descrição
+Este é um projeto de sistema de login e cadastro. Ele inclui autenticação de usuários, páginas públicas e privadas, e integração com **Devise**.
 
-Things you may want to cover:
+## Funcionalidades
+- Cadastro de usuários
+- Login e logout
+- Páginas privadas para usuários logados
+- Recuperação de senha
+- Barra lateral de perfil (dashboard)
+- Validações de formulário
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# login
-# login
-# login
+## Tecnologias utilizadas
+- Ruby on Rails
+- Devise (autenticação)
+- Git & GitHub
